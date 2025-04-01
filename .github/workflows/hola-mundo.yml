@@ -2,9 +2,9 @@ name: Hola Mundo Workflow
 
 on:
   push:
-    branches: [ main ]
+    branches: [ aprendiendo-github-actions ]
   pull_request:
-    branches: [ main ]
+    branches: [ aprendiendo-github-actions ]
 
 jobs:
   build:
